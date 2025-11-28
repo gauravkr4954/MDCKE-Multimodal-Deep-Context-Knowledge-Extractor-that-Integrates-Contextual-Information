@@ -13,13 +13,13 @@ https://www.kaggle.com/datasets/marquis03/more-a-multimodal-relation-extraction-
 ## 👥 Team Members  
 
 | Name            | Roll Number |
-
 |----------------|-------------|
 | **Gaurav Kumar** | 221IT027 |
 | **Vishwajeet H D** | 221IT084 |
 | **Krishna Tulsyan** | 221EE130 |
 
 ---
+
 
 ## Model Architecture  
 <img width="1280" height="648" alt="cv_model_upadted" src="https://github.com/user-attachments/assets/77abc855-db9a-482d-99ac-118931561da4" />

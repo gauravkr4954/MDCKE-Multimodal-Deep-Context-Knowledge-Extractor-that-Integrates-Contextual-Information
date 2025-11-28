@@ -22,9 +22,6 @@ https://www.kaggle.com/datasets/marquis03/more-a-multimodal-relation-extraction-
 ---
 
 ## Model Architecture  
-(Add the image named `` in your repo and it will render automatically.)
-
-![Model Architecture](cv_model_updated.png)
 <img width="1280" height="648" alt="cv_model_upadted" src="https://github.com/user-attachments/assets/77abc855-db9a-482d-99ac-118931561da4" />
 
 ---
